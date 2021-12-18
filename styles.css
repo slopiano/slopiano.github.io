@@ -41,6 +41,7 @@ body {
 .resume .resume_left {
   width: 280px;
   background: #0bb5f4;
+  height: auto;
 }
 
 .resume .resume_left .resume_profile {
@@ -117,15 +118,16 @@ body {
 }
 
 .resume .resume_left ul li .data {
-  color: #b1eaff;
+  color: #ffffff;
 }
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: #b1eaff;
+  color: #ffffff;
   justify-content: normal;
   align-items: center;
+  padding-top: 5px;
 }
 
 .resume .resume_left .resume_skills ul li .skill_name {
